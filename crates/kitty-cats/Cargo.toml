@@ -1,6 +1,6 @@
 [package]
 publish = true
-name = "chloe"
+name = "find-all-the-kitty-cats-in-charlotte"
 version = { workspace = true }
 edition = { workspace = true }
 repository = { workspace = true }
