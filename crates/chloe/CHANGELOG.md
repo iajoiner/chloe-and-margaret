@@ -22,7 +22,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <csr-read-only-do-not-edit/>
 
- - 7 commits contributed to the release.
+ - 8 commits contributed to the release.
  - 5 commits were understood as [conventional](https://www.conventionalcommits.org).
  - 0 issues like '(#ID)' were seen in commit messages
 
@@ -33,6 +33,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 <details><summary>view details</summary>
 
  * **Uncategorized**
+    - Release find-all-the-kitty-cats-in-charlotte v0.1.0, chloe-is-a-cat v0.1.0, margaret-is-a-cat v0.1.0, safety bump 2 crates ([`dc5d738`](https://github.com/iajoiner/chloe-and-margaret/commit/dc5d738d04f5bf10276e4e960125f579d35315a8))
     - Remove unused package ([`c52d28a`](https://github.com/iajoiner/chloe-and-margaret/commit/c52d28a2c75cb7657e9fb1a6507645ad644dbd6a))
     - Release find-all-the-kitty-cats-in-charlotte v0.0.0, chloe-is-a-cat v0.0.0, margaret-is-a-cat v0.0.0 ([`12dda22`](https://github.com/iajoiner/chloe-and-margaret/commit/12dda220d6c9b488517dfe86a1e36ac8a1f35d27))
     - Add changelog, kitties! ([`9fd9029`](https://github.com/iajoiner/chloe-and-margaret/commit/9fd9029257508388708cdf3dffe196589b9c9803))
