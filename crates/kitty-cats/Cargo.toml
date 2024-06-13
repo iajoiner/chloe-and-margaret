@@ -4,6 +4,8 @@ name = "find-all-the-kitty-cats-in-charlotte"
 version = { workspace = true }
 edition = { workspace = true }
 repository = { workspace = true }
+description = { workspace = true }
+license = { workspace = true }
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
