@@ -1,0 +1,11 @@
+[workspace]
+resolver = "2"
+members = ["crates/kitty-cats", "crates/chloe", "crates/margaret"]
+
+[workspace.package]
+edition = "2021"
+exclude = ["**/.gitignore", ".gitignore"]
+repository = "https://github.com/iajoiner/chloe-and-margaret"
+version = "0.0.0" # DO NOT CHANGE THIS LINE! This will be automatically updated
+
+[dependencies]
